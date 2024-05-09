@@ -1,0 +1,59 @@
+body{
+    background-color:rgb(26, 25, 25);
+}
+.roll{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+    align-content: space-between;
+    margin: 1rem;
+    gap: 1rem;
+    position: absolute;
+    color: #363636;
+}
+ .logo icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: .5rem;
+    gap: 1rem;
+ }
+ .icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-left: 10rem;
+    gap: 1.5rem;
+    position: absolute;
+    }
+span{
+    font-size: 16px;
+    color: #FFFFFF;
+    width: 257px;
+    height: 25.2px; 
+    margin-left: 6rem;
+    margin: bottom 3rem;
+}
+h1{
+    font-family: Averta Demo;
+    font-size: 90px;
+    color: #FFFFFF;
+    margin-left: 6rem;
+    
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font: poppins;
+    color: #FFFFFF;
+}
+img{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-left: 45rem;
+}
